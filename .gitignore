@@ -38,3 +38,10 @@ Desktop.ini
 # Claude / Gemini metadata
 .claude/
 .gemini/
+
+# Developer scratch and internal docs
+scratch_output/
+CLAUDE.md
+context.md
+testing_plan.md
+walkthrough.md
