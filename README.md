@@ -86,5 +86,3 @@ The compiled binary will be generated under `menu_planner/dist/MenuPlanner.exe`.
 
 ---
 
-## 📜 Development & Rules Guidelines
-Please refer to [CLAUDE.md](CLAUDE.md) for developer guidelines, critical rules, and testing scripts. Detailed manual validation steps are documented in [testing_plan.md](testing_plan.md).
